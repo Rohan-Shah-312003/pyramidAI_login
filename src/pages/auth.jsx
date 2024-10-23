@@ -41,7 +41,7 @@ export default function Auth() {
 
         <div
           className="login col d-flex flex-column  p-5 justify-content-center mb-5"
-          style={{ height: "100vp" }}
+          style={{ height: "100vh" }}
         >
           <h3 className="login-header">Login</h3>
 
